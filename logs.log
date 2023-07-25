@@ -1,3 +1,0 @@
-info: Received task from RabbitMQ: {"data":"your_data_here"}
-info: Task processed: {"processingTime":1442,"result":"Processed: [object Object]"}
-info: Result sent to RabbitMQ: {"processingTime":1442,"result":"Processed: [object Object]"}
